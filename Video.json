@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ShortVideoScenePrompt",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "title": { "type": "string" },
+        "genre": { "type": "string" },
+        "duration_seconds": { "type": "integer" }
+      },
+      "required": ["title", "genre", "duration_seconds"]
+    },
+    "setting": {
+      "type": "object",
+      "properties": {
+        "location_specific": { "type": "string", "description": "Exact real-world place, architectural cues, materials" },
+        "time_and_season": { "type": "string", "description": "Specific time of day, season, meteorological conditions" },
+        "ambient_lighting": { "type": "string", "description": "Light source, angle, quality, and color temperature" },
+        "environmental_details": { "type": "array", "items": { "type": "string" }, "description": "Tactile micro-details that ground the scene" }
+      },
+      "required": ["location_specific", "time_and_season", "ambient_lighting", "environmental_details"]
+    },
+    "subject": {
+      "type": "object",
+      "properties": {
+        "character": { "type": "string", "description": "Age, attire (specific textiles/folds), expression, posture" },
+        "action": { "type": "string", "description": "Subtle, lived-in physical movement rather than theatrical gesture" }
+      },
+      "required": ["character", "action"]
+    },
+    "cinematography": {
+      "type": "object",
+      "properties": {
+        "camera_movement": { "type": "string" },
+        "framing_and_lens": { "type": "string" },
+        "color_palette": { "type": "string" }
+      },
+      "required": ["camera_movement", "framing_and_lens", "color_palette"]
+    },
+    "audio_cues": {
+      "type": "object",
+      "properties": {
+        "diegetic_sounds": { "type": "array", "items": { "type": "string" } },
+        "ambient_score": { "type": "string" }
+      },
+      "required": ["diegetic_sounds"]
+    }
+  },
+  "required": ["metadata", "setting", "subject", "cinematography", "audio_cues"]
+}
