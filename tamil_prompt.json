@@ -1,0 +1,70 @@
+{
+  "prompt_name": "Margazhi Kolam in a Chettinad Courtyard",
+  "subject": {
+    "description": "An adult kolam artist drawing a precise pulli kolam with rice flour at the threshold of a Chettinad home",
+    "textile": "Kanchipuram silk saree with a deep maroon body, mustard-gold korvai border, and restrained temple motifs",
+    "festival": "Margazhi observance before sunrise, with a small brass kuthuvilakku and fresh flowers placed beside the threshold"
+  },
+  "setting": {
+    "region": "Kanadukathan, Chettinad, Sivaganga district, Tamil Nadu",
+    "place": "an inhabited Chettinad mansion courtyard and front thinnai",
+    "period": "present day, preserving an early-20th-century Chettiar domestic setting",
+    "architecture": "Chettinad courtyard house with lime-plastered walls, Athangudi floor tiles, Burmese-teak pillars, carved doors, and a shaded thinnai",
+    "time_of_day": "blue hour before sunrise on a cool Margazhi morning"
+  },
+  "lighting": {
+    "description": "soft blue ambient dawn light mixed with a restrained warm glow from one brass oil lamp",
+    "contrast": "gentle natural contrast",
+    "shadows": "soft, directionally consistent shadows"
+  },
+  "camera": {
+    "shot": "medium-wide observational shot",
+    "lens": "35mm",
+    "angle": "eye-level",
+    "composition": "artist and kolam slightly off-centre; pillars create depth; uncluttered lived-in courtyard",
+    "focus": "artist's hand and emerging kolam in clear focus, architecture readable behind"
+  },
+  "palette": [
+    "Athangudi terracotta",
+    "lime-wash ivory",
+    "deep maroon",
+    "muted mustard gold",
+    "dawn blue",
+    "leaf green"
+  ],
+  "style": "photorealistic documentary cinema; culturally precise, quiet and lived-in rather than staged or postcard-like",
+  "aspect_ratio": "16:9",
+  "motion": {
+    "subject_motion": "the artist pinches and releases rice flour in a continuous line, completes one loop of the pulli kolam, briefly adjusts the saree edge, then resumes drawing",
+    "environment_motion": "a small oil-lamp flame flickers; jasmine strands and banana leaves move very slightly in the dawn breeze",
+    "camera_move": "slow, stabilized 20-centimetre push-in with no orbit or sudden reframing",
+    "duration_seconds": 5,
+    "frame_rate": "24 fps",
+    "start_frame": "medium-wide view showing the artist, threshold, and half-completed kolam",
+    "end_frame": "slightly tighter view emphasizing the moving hand, rice-flour line, and Athangudi tiles",
+    "continuity": "preserve the same person, clothing, jewellery, kolam geometry, lamp position, architecture, and lighting throughout"
+  },
+  "avoid": [
+    "generic pan-Indian décor",
+    "North Indian clothing or festival props",
+    "Thanjavur palace or temple architecture",
+    "generic palace interiors",
+    "wedding staging",
+    "crowds",
+    "tourist-postcard composition",
+    "excessive jewellery",
+    "oversaturated colours",
+    "modern cars",
+    "plastic furniture or containers",
+    "electric neon lighting",
+    "visible brand logos",
+    "captions or watermarks",
+    "distorted hands",
+    "extra fingers",
+    "changing face or clothing between frames",
+    "warping kolam geometry",
+    "camera shake",
+    "fast zoom",
+    "time-lapse motion"
+  ]
+}

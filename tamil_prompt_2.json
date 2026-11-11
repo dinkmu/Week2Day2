@@ -1,0 +1,70 @@
+{
+  "prompt_name": "Margazhi Kolam in a Thanjavur Courtyard",
+  "subject": {
+    "description": "An adult kolam artist drawing a precise pulli kolam with rice flour at the household threshold",
+    "textile": "Thirubuvanam silk saree with a deep arakku-red body, muted mustard-gold korvai border, and restrained rudraksha-inspired motifs",
+    "festival": "Margazhi observance before sunrise, with one brass kuthuvilakku and a small plate of fresh jasmine and arali flowers"
+  },
+  "setting": {
+    "region": "Thanjavur, Tamil Nadu",
+    "place": "an inhabited courtyard house near the old residential streets of Thanjavur",
+    "period": "present day, preserving a late-19th-century Tamil domestic setting",
+    "architecture": "lime-plastered courtyard house with red-oxide floors, Burmese-teak pillars, carved wooden doors, a shaded thinnai, inner mutram, and weathered clay roof tiles"
+  },
+  "time_of_day": "blue hour before sunrise on a cool Margazhi morning",
+  "lighting": {
+    "description": "soft dawn-blue ambient light mixed with a restrained warm glow from one brass oil lamp",
+    "contrast": "gentle natural contrast",
+    "shadows": "soft, directionally consistent shadows"
+  },
+  "camera": {
+    "shot": "medium-wide observational shot",
+    "lens": "35mm",
+    "angle": "eye-level",
+    "composition": "artist and kolam slightly off-centre, with pillars creating depth and an uncluttered lived-in courtyard",
+    "focus": "the drawing hand and emerging rice-flour line are clear while the architecture remains readable"
+  },
+  "palette": [
+    "red oxide",
+    "lime-wash ivory",
+    "arakku red",
+    "muted mustard gold",
+    "dawn blue",
+    "leaf green"
+  ],
+  "style": "photorealistic documentary cinema; culturally precise, quiet, inhabited, and unstaged rather than picturesque or postcard-like",
+  "aspect_ratio": "16:9",
+  "motion": {
+    "subject_motion": "the artist pinches and releases rice flour in a continuous line, completes one loop of the pulli kolam, briefly adjusts the saree edge, then resumes drawing",
+    "environment_motion": "the oil-lamp flame flickers subtly while jasmine strands and nearby leaves move slightly in the dawn breeze",
+    "camera_move": "a slow stabilized 20-centimetre push-in with no orbit or sudden reframing",
+    "duration_seconds": 5,
+    "frame_rate": "24 fps",
+    "start_frame": "medium-wide view showing the artist, threshold, and half-completed kolam",
+    "end_frame": "slightly tighter view emphasizing the moving hand, rice-flour line, and red-oxide floor",
+    "continuity": "preserve the same person, saree, jewellery, kolam geometry, lamp position, architecture, and lighting throughout"
+  },
+  "avoid": [
+    "generic pan-Indian decor",
+    "North Indian clothing or festival props",
+    "imperial palace interiors",
+    "temple sanctum architecture",
+    "wedding staging",
+    "crowds",
+    "tourist-postcard composition",
+    "excessive jewellery",
+    "oversaturated colours",
+    "modern cars",
+    "plastic furniture or containers",
+    "electric neon lighting",
+    "visible brand logos",
+    "captions or watermarks",
+    "distorted hands",
+    "extra fingers",
+    "changing face or clothing between frames",
+    "warping kolam geometry",
+    "camera shake",
+    "fast zoom",
+    "time-lapse motion"
+  ]
+}
